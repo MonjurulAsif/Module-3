@@ -6,3 +6,8 @@ div{
     margin: 12px;
     padding: 12px;
 }
+fieldset{
+    border-radius: 4px;
+    border-collapse: collapse;
+    border-color: purple;
+}
